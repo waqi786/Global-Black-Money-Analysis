@@ -68,7 +68,7 @@ The dataset includes financial indicators and variables such as:
 **Dataset Link:** https://www.kaggle.com/datasets/waqi786/global-black-money-transactions-dataset
 
 
-**License:**
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
