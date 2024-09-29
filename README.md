@@ -54,7 +54,7 @@ This project explores the hidden financial flows, tax evasion, and money launder
 8. XGBoost (optional for anomaly detection)
 
 
-**Dataset:**
+**Dataset**
 
 The dataset includes financial indicators and variables such as:
 
