@@ -1,6 +1,6 @@
 # Global-Black-Money-Analysis
 
-**Overview**
+**Overview:**
 
 This project explores the hidden financial flows, tax evasion, and money laundering trends that contribute to the global black money economy. By leveraging data analysis techniques and visualizations, this study provides insights into how black money moves across borders, affects economies, and evades detection. The analysis focuses on identifying patterns and key factors that influence these illicit activities globally.
 
